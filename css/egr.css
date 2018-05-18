@@ -1,0 +1,90 @@
+.bg-darkblue {
+	background-color: #1b2733;
+}
+
+.bg-gray{
+	background-color: #262f3f;
+	color: white;
+}
+
+#oculus {
+	width: 225px;
+	height: 225px;
+	margin-top: 37.5px;
+	margin-bottom: 37.5px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	background-image: url("../source/rv.png");
+}
+
+
+#balloon {
+	width: 250px;
+	height: 250px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url("../source/bal.png");
+}
+
+.div{
+	margin: 20px 0px;
+	height: 55px;
+	background-color: #205073;
+	opacity: 0.1;
+}
+
+.div-img{
+	width: 140px;
+	height: 140px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.font-logo {
+	font-family: 'Pacifico', cursive;
+}
+
+.font-logo2 {
+	font-family: 'Gloria Hallelujah', cursive;
+	font-weight: bold;
+}
+
+.font-logo3 {
+	font-family: 'Satisfy', cursive;
+	font-weight: bold;
+	line-height: 1;
+}
+
+.hr-white {
+    border-top: 1px solid rgba(251, 251, 251, 0.1);
+}
+
+#antonio {
+	background-image: url("../source/integrantes/antonio.jpg");
+}
+
+#arturo {
+	background-image: url("../source/integrantes/arturo.jpg");
+}
+
+#chris {
+	background-image: url("../source/integrantes/chris.jpg");
+}
+
+#eder {
+	background-image: url("../source/integrantes/eder.jpg");
+}
+
+#edgar {
+	background-image: url("../source/integrantes/edgar.jpg");
+}
+
+#mafer {
+	background-image: url("../source/integrantes/mafer.jpg");
+}
+
